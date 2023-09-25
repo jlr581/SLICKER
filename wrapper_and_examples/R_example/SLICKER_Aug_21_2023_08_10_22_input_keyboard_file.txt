@@ -1,0 +1,13 @@
+SLICKER_Aug_21_2023_08_10_22_target.txt
+2
+SLICKER_Aug_21_2023_08_10_22_proxy1.txt
+SLICKER_Aug_21_2023_08_10_22_proxy2.txt
+SLICKER_Aug_21_2023_08_10_22_timebase.txt
+512
+0.4, 1.6
+20
+1e-07
+SLICKER_Aug_21_2023_08_10_22_output.txt
+n
+0.5
+n
