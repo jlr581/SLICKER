@@ -1,0 +1,13 @@
+test9_input_target.txt
+2
+test9_input_proxy1.txt <0.5>
+test9_input_proxy2.txt
+test9_input_timebase.txt
+512
+0.4,1.6
+60
+3e-6
+test9_output_SLICKER_nonlinear.txt
+y
+0.5
+y

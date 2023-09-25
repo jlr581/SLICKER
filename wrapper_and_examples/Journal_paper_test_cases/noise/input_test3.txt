@@ -1,0 +1,13 @@
+test3_input_target.txt
+2
+test3_input_proxy1.txt <0.5>
+test3_input_proxy2.txt
+test3_input_timebase.txt
+512
+0.4,1.6
+60
+1e-7
+test3_output_SLICKER_linear.txt
+n
+0.5
+n

@@ -1,0 +1,13 @@
+test8_input_target.txt
+2
+test8_input_proxy1.txt
+test8_input_proxy2.txt
+test8_input_timebase.txt
+512
+0.4,1.6
+12
+2e-6
+test8_output_SLICKER_linear.txt
+n
+0.5
+n

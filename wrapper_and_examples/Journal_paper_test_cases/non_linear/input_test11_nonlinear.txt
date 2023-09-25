@@ -1,0 +1,14 @@
+test11_input_target.txt
+2
+test11_input_proxy1.txt 
+test11_input_proxy2.txt
+test11_input_timebase.txt
+512
+0.4,1.6
+1200
+7e-5
+test11_output_SLICKER_nonlinear.txt
+y
+0.5
+y
+

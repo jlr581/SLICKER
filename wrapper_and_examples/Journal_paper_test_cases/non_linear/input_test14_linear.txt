@@ -1,0 +1,13 @@
+test14_input_target.txt
+2
+test14_input_proxy1.txt
+test14_input_proxy2.txt
+test14_input_timebase.txt
+512
+0.4,1.6
+60
+1e-4
+test14_output_SLICKER_linear.txt
+n
+0.5
+y

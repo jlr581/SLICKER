@@ -1,0 +1,13 @@
+test7_input_target.txt
+2
+test7_input_proxy1.txt
+test7_input_proxy2.txt
+test7_input_timebase.txt
+512
+0.4,2.4
+12
+2e-8
+test7_output_SLICKER_linear.txt
+n
+0.5
+n
