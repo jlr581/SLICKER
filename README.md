@@ -13,7 +13,7 @@ SLICKER is written in FORTRAN, with wrappers for MATLAB, Python and R.  A window
 ## Citation
 If using SLICKER for scientific studies, please cite
 
-Roberts et al (2024), New insights from an East Antarctic ice core with SLICKER: Segmented Linear Integral Correlation Kernel Ensemble Reconstruction, *The Holocene*
+Roberts et al (submitted), New insights from an East Antarctic ice core with SLICKER: Segmented Linear Integral Correlation Kernel Ensemble Reconstruction, *PLOS ONE*
 
 ## Building Source Code
 For systems with access to a FORTRAN compiler, source code is included
