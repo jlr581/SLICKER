@@ -13,7 +13,7 @@ SLICKER is written in FORTRAN, with wrappers for MATLAB, Python and R.  A window
 ## Citation
 If using SLICKER for scientific studies, please cite
 
-Roberts et al (submitted), New insights from an East Antarctic ice core with SLICKER: Segmented Linear Integral Correlation Kernel Ensemble Reconstruction, *PLOS ONE*
+Roberts et al (submitted), Segmented Linear Integral Correlation Kernel Ensemble Reconstruction: A new method for climate reconstructions with applications to Holocene era proxies from an East Antarctic ice core *PLOS ONE*
 
 ## Building Source Code
 For systems with access to a FORTRAN compiler, source code is included
@@ -26,7 +26,7 @@ in the ../FORTRAN_source_code directory.
  - copy "reconstruct" to the "wrappers_and_examples" directory by typing "make install" at the command line
 
 ## Wrappers and examples
-Wrappers and example usage is provided for MATLAB, Python and R.  The particular text example for the wrappers is from Figure 8c of the above *The Holocene* journal paper a test case with two input proxies with 20% of the data missing from both proxies. Note that the solver relies on random numbers, so the solution from subsequent runs of the same problem will be slightly different.  Examples for both text and netCDF input data are provided.  All other test examples from *The Holocene* journal paper are included in the Journal_paper_test_cases directory.
+Wrappers and example usage is provided for MATLAB, Python and R.  The particular text example for the wrappers is from Figure S2 c of the above *PLOS ONE* journal paper a test case with two input proxies with 20% of the data missing from both proxies. Note that the solver relies on random numbers, so the solution from subsequent runs of the same problem will be slightly different.  Examples for both text and netCDF input data are provided.  All other test examples from the *PLOS ONE* journal paper are included in the Journal_paper_test_cases directory.
 
 | Directory | code execution |
 |-----------|----------------|
