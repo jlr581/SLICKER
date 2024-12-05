@@ -1,0 +1,14 @@
+blue_target.txt
+3
+blue_proxy1.txt
+blue_proxy2.txt
+blue_proxy3.txt
+blue_timebase.txt
+4096
+0.4,1.6
+100
+1e-6
+blue_output_SLICKER.txt
+y
+0.1
+n

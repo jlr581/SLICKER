@@ -1,0 +1,13 @@
+AR1_target.txt
+2
+AR1_proxy1.txt
+AR1_proxy2.txt
+AR1_timebase.txt
+4096
+0.4,1.6
+100
+1e-6
+AR1_output_SLICKER.txt
+y
+0.1
+n

@@ -1,0 +1,14 @@
+red_target.txt
+3
+red_proxy1.txt
+red_proxy2.txt
+red_proxy3.txt
+red_timebase.txt
+4096
+0.4,1.6
+100
+1e-6
+red_output_SLICKER.txt
+y
+0.1
+n
